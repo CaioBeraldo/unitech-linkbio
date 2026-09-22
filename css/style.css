@@ -138,7 +138,7 @@ body::before{
   --mini-icon-1-size: 128px;
   --mini-icon-2-size: 138px;
   --mini-icon-3-size: 138px;
-  --mini-icon-gap: 3px;
+  --mini-icon-gap: -6px;
   display:flex; align-items:center; justify-content:center; gap:var(--mini-icon-gap);
   margin:0 auto; width:100%;
   padding:0 6px;
